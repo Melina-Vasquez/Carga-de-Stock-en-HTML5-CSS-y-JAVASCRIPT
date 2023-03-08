@@ -1,13 +1,16 @@
-<h3 align="center">Pequeño proyecto de para el modulo de programación 1 de Institución Cervantes. Se realizo un diseño básico para la muestra de resultado en un tabla en la pagina web. La idea es mostrar la información de las operación solicitadas en nivel básico.</h3>
+## Descripcion 👯
+Pequeño proyecto de módulo de programación 1 de Institución Cervantes. Se realizó un diseño básico para la muestra de resultado en una tabla en la página web. La idea es mostrar la información de las operaciones solicitadas en el nivel básico.
 
-- 👯Brindo soluciones en desarrollo de Sofware **para diferentes agencias**
+## URL para ver el resultado 👇
+Para ver el proyecto de forma directa, haz clic aqui [https://melina-vasquez.github.io/Carga-de-Stock-en-HTML5-CSS-y-JAVASCRIPT/]
 
-- 📫 Escribeme a **melina.denise.vasquez@gmail.com**
+## Instrucciones 📝
+Este proyecto no necesita instalacion. Simplemente se abre la carpeta o presiona doble click en .html
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/melina vasquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melina vasquez" height="30" width="40" /></a>
-</p>
+## Autora 👨🏻‍💻
+Melina Vasquez- Estudiante de Analista en Sistemas
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+## Contactame en 📫
+melina.denise.vasquez@gmail.com
+www.linkedin.com/in/vasquezmelina
+
